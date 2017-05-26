@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB74D</color>
+    <color name="colorRedMinus">#c05000</color>
+    <color name="colorPrimaryDark">#a8030303</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <!-- Movie List -->
+    <color name="movieListDivider">#933131</color>
+    <color name="movieListRowTitle">#daffb546</color>
+    <color name="movieListRowSub">#3f8294</color>
+    <color name="movieListBlank">#daffb546</color>
+
+    <color name="listPressed">#0AAAFF</color>
+</resources>
